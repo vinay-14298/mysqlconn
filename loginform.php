@@ -4,14 +4,12 @@
 <title>login form</title>
 <style>
 body{background-color: lightblue;}
-<img src="https://www.shutterstock.com/search/elon+musk" alt="a lady in a jacket">
+
 </style>
 </head>
 
 <body>
-<style>
-background: #eee;
-</style>
+
 <form action ="register.php" method="post">
 
 <table width="300" border="0" cellspacing="1" cellpadding="1">
